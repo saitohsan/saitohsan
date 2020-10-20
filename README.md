@@ -15,5 +15,5 @@
 
 ## Wakatime
 
-[![](https://github-readme-stats.vercel.app/wakatime/api/?username=saitohsan&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime/?username=saitohsan&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
