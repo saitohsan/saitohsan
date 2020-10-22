@@ -1,7 +1,6 @@
 # Hi, I'm [@saitohsan](https://github.com/saitohsan/saitohsan/)
 
 * Web Engineer from Japan.
-* Love dogs🐶, football⚽️ and cloud☁️
 
 ## Grass-Graph
 
