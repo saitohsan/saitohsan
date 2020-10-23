@@ -14,6 +14,4 @@
 
 ## Wakatime
 
-[![](https://github-readme-stats.vercel.app/api/wakatime/?username=saitohsan&layout=default)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github.com/saitohsan/saitohsan/blob/master/images/stat.svg" alt="wakatime stats data"/>
+[wakatime stats](https://wakatime.com/share/@saitohsan/66af25fc-6b0e-4388-8d1f-0c3d0504e200.png, "wakatime coding stats")
