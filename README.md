@@ -15,3 +15,6 @@
 ## Wakatime
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@saitohsan/66af25fc-6b0e-4388-8d1f-0c3d0504e200.png" /></a>
+
+## Wakatime update test
+<img src="https://github.com/saitohsan/saitohsan/blob/master/images/stat.svg" alt="Alternative Text"/>
