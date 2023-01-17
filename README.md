@@ -4,7 +4,7 @@
 
 ## Grass-Graph
 
-[![grass graph](https://grass-graph.appspot.com/images/saitohsan.png)
+![grass graph](https://grass-graph.appspot.com/images/saitohsan.png)
 
 ## GitHub Readme Stats
 
