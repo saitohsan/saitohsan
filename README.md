@@ -2,7 +2,7 @@
 
 * Web Engineer from Japan.
 
-# badges
+## badge
 <p align="left">
   <a href="https://github.com/saitohsan">
     <img height="20" src="https://komarev.com/ghpvc/?username=saitohsan" />
