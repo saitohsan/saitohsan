@@ -1,6 +1,8 @@
 # Hi, I'm [@saitohsan](https://github.com/saitohsan/saitohsan/)
 
 * Web Engineer from Japan.
+
+# badges
 <p align="left">
   <a href="https://github.com/saitohsan">
     <img height="20" src="https://komarev.com/ghpvc/?username=saitohsan" />
@@ -18,3 +20,13 @@
     <img height="20" src="https://badgen.org/img/zenn/saitohsan/articles?style=plastic" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saitohsan&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saitohsan&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saitohsan&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saitohsan&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saitohsan&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=saitohsan&theme=gruvbox)
